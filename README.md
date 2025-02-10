@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lunga Nhlakanipho Ntshingila  
 
-🚀 **Software Developer | React | C# | SQL | Tech Support Logging Systems**  
+🚀 **Software Developer | Java | React | C# | SQL | Tech Support Logging Systems**  
 🔍 Passionate about building **scalable applications** and **optimizing system performance**  
 💡 Currently working on: **Tech Support Logging System | NHFCS**  
 <!--📫 Connect with me on **[LinkedIn](your-linkedin-url)**  -->
