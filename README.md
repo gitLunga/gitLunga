@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Lunga Nhlakanipho Ntshingila  
 
 🚀 **Software Developer | React | C# | SQL | Tech Support Logging Systems**  
 🔍 Passionate about building **scalable applications** and **optimizing system performance**  
@@ -18,7 +18,7 @@
 ---
 
 ## 📌 Featured Projects  
-### 🛠 [Tech Support Logging System](https://github.com/your-repo-link)
+### 🛠 [Technical Support Logging System](https://github.com/your-repo-link)
 🚀 A robust **logging system** for tracking and managing **technical support issues**.  
 ✅ **Tech:** React, C#, .NET, SQL Server  
 ✅ **Features:**
