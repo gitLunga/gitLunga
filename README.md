@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Lunga Nhlakanipho Ntshingila  
 
-🚀 **Software Developer | Java | React | C# | SQL | Tech Support Logging Systems**  
-🔍 Passionate about building **scalable applications** and **optimizing system performance**  
-💡 Currently working on: **Tech Support Logging System | NHFCS**  
+🚀 **Software Developer | Java | React | C# | SQL | ASP.NET CORE**  
+🔍 Passionate about building **scalable web and mobile applications** and **optimizing system performance**  
+💡 Currently working on: **Tech Support Logging System | NHFCS(National HealthCare Filling System)**  
 <!--📫 Connect with me on **[LinkedIn](your-linkedin-url)**  -->
 
 ---
@@ -18,7 +18,7 @@
 ---
 
 ## 📌 Featured Projects  
-### 🛠 [Technical Support Logging System](https://github.com/your-repo-link)
+### 🛠 [Technical Support Logging System]([https://github.com/](https://github.com/ICEP-DEV/Techtrackers.Web.git))
 🚀 A robust **logging system** for tracking and managing **technical support issues**.  
 ✅ **Tech:** React, C#, .NET, SQL Server  
 ✅ **Features:**
