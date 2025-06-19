@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lunga Nhlakanipho Ntshingila  
 
-🚀 **Software Developer | Java | React | C# | SQL | ASP.NET CORE**  
+🚀 **Junior Software Developer | Java | React | C# | SQL | ASP.NET CORE**  
 🔍 Passionate about building **scalable web and mobile applications** and **optimizing system performance**  
 💡 Currently working on: **Tech Support Logging System | NHFCS(National HealthCare Filling System)**  
 
